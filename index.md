@@ -1,32 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to Miron Airport Support site!
 
-You can use the [editor on GitHub](https://github.com/wrtrrra/Miron.Support.Miron/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome all to this new site! The High Miron Staff (SHR) has decided to privide a site where you are able to see all our guides, information and anything you need! To start the guide, we'll put some little useful links that you may use.
+Links:
+1. [Training Center](https://www.roblox.com/games/8695179306/RA-POLICE-training-center?gameSetTypeId=100000001&homePageSessionInfo=90fd5fbd-6e19-46c0-8e4d-2065e1e74434&isAd=false&numberOfLoadedTiles=6&page=homePage&placeId=8695179306&position=0&sortPos=10&universeId=3305016414)
+2. Coming Soon!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Little useful information for Training Center... You are able to enter ONLY if there is currently a training/interview!
 
-### Markdown
+## Guides
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+When doing something at Miron Airport (training center or anything else) you MUST utilize a guide for some things.
 
 ### Jekyll Themes
 
